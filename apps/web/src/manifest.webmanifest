@@ -1,0 +1,10 @@
+{
+  "name": "Doxa Deo Planner",
+  "short_name": "DoxaPlanner",
+  "theme_color": "#1d4ed8",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": []
+}
