@@ -1,0 +1,14 @@
+{
+  "name": "doxa-deo-planner",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:api": "npm --workspace @doxa/api run dev",
+    "start:api": "npm --workspace @doxa/api run start",
+    "dev:web": "npm --workspace @doxa/web run start",
+    "build:web": "npm --workspace @doxa/web run build"
+  }
+}
